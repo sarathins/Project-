@@ -17,6 +17,7 @@ This project explores the application of machine learning, specifically K-Means 
 #### Key Features:
 * Utilization of K-Means clustering for stock grouping.
 * Portfolio construction based on either maximum Sharpe ratio or equal weights.
+* Also tried the HRP method it gave higher edge compare to MVO
 * Comparative analysis of portfolio performance against the Nifty index.
 
 #### How to Use:
