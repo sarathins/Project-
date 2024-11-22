@@ -1,29 +1,57 @@
-# Project Portfolio
+# **Project Portfolio**
 
-### 1. EPAT Portfolio Optimization with Statistical Arbitrage
-### Overview:
-This project focuses on portfolio optimization using statistical arbitrage techniques within the framework of the EPAT (Executive Programme in Algorithmic Trading) curriculum. The aim is to leverage statistical arbitrage methodologies to construct an optimized portfolio.
+Welcome to my project portfolio! Here, I showcase various algorithmic trading, machine learning, and momentum-based portfolio construction projects, designed with scalability, efficiency, and real-world applicability in mind.
 
-## Key Features:
-* Implementation of advanced statistical arbitrage strategies.
-* Utilization of EPAT concepts and principles.
-* Detailed analysis of portfolio performance and risk metrics.
+---
 
-### 2. Machine Learning-based Portfolio Management with K-Means Clustering
-### Overview:
+## **1. EPAT Portfolio Optimization with Statistical Arbitrage**
+### **Overview**:
+This project focuses on portfolio optimization using statistical arbitrage techniques, leveraging concepts from the EPAT (Executive Programme in Algorithmic Trading) curriculum.
 
-This project explores the application of machine learning, specifically K-Means clustering, in the construction of a portfolio comprising Nifty 50 stocks. The primary objective is to compare the portfolio's performance against the benchmark Nifty index.
+### **Key Features**:
+- Advanced implementation of statistical arbitrage strategies.
+- Integration of EPAT principles for portfolio construction.
+- Comprehensive analysis of performance and risk metrics.
 
-#### Key Features:
-* Utilization of K-Means clustering for stock grouping.
-* Portfolio construction based on either maximum Sharpe ratio or equal weights.
-* Also tried the HRP method it gave higher edge compare to MVO
-* Comparative analysis of portfolio performance against the Nifty index.
+---
 
-#### How to Use:
+## **2. Machine Learning-Based Portfolio Management with K-Means Clustering**
+### **Overview**:
+This project applies machine learning techniques, specifically K-Means clustering, to construct a portfolio of Nifty 50 stocks, with a focus on outperforming the benchmark index.
 
-* Navigate to the respective project folders.
-* Follow the README instructions for each project to set up the environment and run the code.
-* Explore detailed documentation within each project directory for a comprehensive understanding of the methodologies and results.
+### **Key Features**:
+- Stock grouping using K-Means clustering for effective diversification.
+- Portfolio construction using maximum Sharpe ratio or equal weights.
+- Implemented **HRP (Hierarchical Risk Parity)**, which performed better than traditional **MVO (Mean-Variance Optimization)**.
+- Comparative performance analysis against the Nifty index.
 
-Feel free to reach out for any questions or further collaboration opportunities.
+---
+
+## **3. MSCI Momentum Index-Based Portfolio Construction**
+### **Overview**:
+A systematic implementation of the MSCI Momentum Index strategy, focusing on constructing and evaluating a momentum-driven portfolio.
+
+### **Key Features**:
+- Processed raw stock data and adjusted for corporate actions.
+- Calculated momentum Z-scores based on 6-month and 12-month returns.
+- Ranked stocks, selected the top-performing ones, and constructed a value-weighted portfolio.
+- Monthly portfolio rebalancing and performance evaluation using metrics like Sharpe Ratio, CAGR, and Maximum Drawdown.
+
+---
+
+## **4. Intraday Stock Selection with Telegram Bot Integration**
+### **Overview**:
+This project automates the process of intraday stock selection and real-time updates to a Telegram channel using a bot.
+
+### **Key Features**:
+- Automated stock filtering based on volume, price change, and momentum indicators.
+- Seamless integration with the Telegram API to send real-time stock recommendations.
+- Efficient solution for intraday traders to access actionable insights instantly.
+
+---
+
+## **How to Use**:
+- Navigate to the respective project folders for detailed code and instructions.
+- Each project includes a dedicated **README.md** for setup, execution, and methodology details.
+- Review documentation for step-by-step guidance on replicating the results.
+
