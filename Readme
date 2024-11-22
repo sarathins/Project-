@@ -15,7 +15,11 @@ Applied K-Means clustering for grouping Nifty 50 stocks, with portfolio construc
 3. Momentum-Based Intraday Stock Selection with Telegram Bot Integration: 
 Developed and deployed a momentum-scoring system for intraday stock selection, delivering real-time stock lists to clients via a Telegram bot, streamlining market decision-making.
 
-4. Momentum Score-Based Portfolio Construction: (on-going project)
+4. MSCI Momentum Index-Based Portfolio Construction:
+Implemented a portfolio construction framework aligned with MSCI Momentum Index methodology, processing stock data, adjusting for corporate actions, calculating momentum scores, 
+and rebalancing portfolios monthly for superior risk-adjusted performance.
+
+5. Momentum Score-Based Portfolio Construction: (on-going project)
 Focused on building portfolios using momentum scores to optimize stock selection, aiming for superior risk-adjusted returns through systematic momentum strategies.
 
 🤝 Looking to collaborate on: Quantitative research, data-driven strategies, algorithmic trading models, and anything that pushes the boundaries of market innovation.
