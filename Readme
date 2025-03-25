@@ -19,9 +19,11 @@ Developed and deployed a momentum-scoring system for intraday stock selection, d
 Implemented a portfolio construction framework aligned with MSCI Momentum Index methodology, processing stock data, adjusting for corporate actions, calculating momentum scores, 
 and rebalancing portfolios monthly for superior risk-adjusted performance.
 
-5. Momentum Score-Based Portfolio Construction: (on-going project)
-Focused on building portfolios using momentum scores to optimize stock selection, aiming for superior risk-adjusted returns through systematic momentum strategies.
-
+5. Momentum Score-Based Portfolio Construction (Upgraded – Ongoing Project):
+Independently developed a momentum-based portfolio strategy achieving a Sharpe ratio of 0.8–1.2, 10–15% drawdowns, and 12–20% CAGR depending on the stock universe.
+To enhance performance and reduce risk, upgraded the system using a factor-based framework, applying PCA for noise reduction and LSTM to capture temporal trends in price movements.
+Current tests at the individual stock level show promising results with CAGR between 50–85%, drawdowns of 10–20%, and a Sharpe ratio consistently above 1.
+Scope: Expand the strategy to a broader stock universe to further reduce risk and improve overall returns through systematic diversification.
 🤝 Looking to collaborate on: Quantitative research, data-driven strategies, algorithmic trading models, and anything that pushes the boundaries of market innovation.
 
 📫 Reach me: 
